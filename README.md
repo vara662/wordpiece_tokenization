@@ -372,6 +372,6 @@ This project demonstrates the internal working of WordPiece tokenization through
 
 ## Author
 
-**Varalakshmi Kumar**
+**Varalakshmi K**
 
 This project was developed to study and demonstrate the implementation of the WordPiece subword tokenization algorithm from scratch using Python.
